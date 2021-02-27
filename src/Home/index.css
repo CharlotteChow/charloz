@@ -1,0 +1,95 @@
+.App{
+  position: relative;
+  width: 100%;
+  background-color: #161718;
+}
+.container{
+  width: 100%;
+  border-top: 1px solid #222425;
+  height: calc(100vh - 100px);
+}
+.side_nav{
+  width: 100px;
+  height: 100%;
+  position: absolute;
+  left: 0;
+}
+.side_nav p{
+  font-family: 'Sora';
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 20px;
+  width: 160px;
+  text-align: center;
+  color: #808080;
+  transform: rotate(-90deg);
+  position: absolute;
+  left: -32px;
+  top: 50%;
+}
+.about{
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.about_pic {
+  width: calc(100vw);
+}
+.about_pic img{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin-left: 100px;
+}
+.about_pic h1{
+  position: absolute;
+  top: 45%; 
+  left: 238px;
+  display: inline;
+  font-family: Sora;
+  -webkit-text-stroke: 1px #f1f1f1; 
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 64px;
+  color: #FFFFFF;
+}
+.about_content{
+  display: flex;
+  color: #FFFFFF;
+  justify-content: center;
+  align-items: center;
+} 
+.about_content_details{
+  width: 60%;
+  margin-right: 120px;
+}
+.about_content h1{
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 30px;
+  font-family: Sora;
+  width: 100%;
+}
+.about_content p{
+  font-family: Sora;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 24px;
+  width: 100%;
+  color: #808080;
+  margin-top: 28px;
+}
+.socialMedia{
+  text-decoration: none;
+  margin-top: 60px;
+}
+.socialMedia li{
+  display: inline;
+}
+.socialMedia li a{
+  padding-right: 24px;
+  text-decoration: none;
+}
+.socialMedia li a:hover svg path{
+  fill: #B2B2B2;
+}

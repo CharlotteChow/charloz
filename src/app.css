@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@font-face{
+    font-family: "Sora";
+    src: url("./assets/fonts/Sora-Thin.woff2") format("woff2"),
+    url("./assets/fonts/Sora-Thin.woff") format("woff");
+    font-weight: 100;
+}
+@font-face{
+    font-family: "Sora";
+    src: url("./assets/fonts/Sora-Regular.woff2") format("woff2"),
+    url("./assets/fonts/Sora-Regular.woff") format("woff");
+    font-weight: 400;
+}
+.App{
+    position: relative;
+    width: 100%;
+}
+.container{
+    background-color: #161718;
+}
+.topNav{
+    height: 100px;
+}
+.nav_logo{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.logo_img img{
+    height: 40px;
+    width: 40px;
+    margin: 30px;  
+}
+.nav_logo_name{
+    padding: 40px 36px;
+    border-left: 1px solid #222425;
+}
+.nav_link{
+    position: absolute;
+    right: 0;
+    top: 37px;
+    text-decoration: none;
+    margin-right: 80px;
+}
+.nav_link li{
+    display: inline;
+}
+.link_normal{
+    height: 100px;
+    margin-left: 40px;
+    color: #808080;
+    text-decoration: none;
+    font-family: 'Sora';
+    font-weight: 100;
+    font-size: 13px;
+    line-height: 26px;
+}
+.link_active{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Sora';
+    font-weight: 200;
+    font-size: 13px;
+}
