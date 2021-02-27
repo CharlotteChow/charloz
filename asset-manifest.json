@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e5c9873c.chunk.css",
+    "main.js": "./static/js/main.f68f2391.chunk.js",
+    "main.js.map": "./static/js/main.f68f2391.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8fa653a2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8fa653a2.js.map",
+    "static/js/2.46476344.chunk.js": "./static/js/2.46476344.chunk.js",
+    "static/js/2.46476344.chunk.js.map": "./static/js/2.46476344.chunk.js.map",
+    "static/js/3.6a061ea3.chunk.js": "./static/js/3.6a061ea3.chunk.js",
+    "static/js/3.6a061ea3.chunk.js.map": "./static/js/3.6a061ea3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.e5c9873c.chunk.css.map": "./static/css/main.e5c9873c.chunk.css.map",
+    "static/js/2.46476344.chunk.js.LICENSE.txt": "./static/js/2.46476344.chunk.js.LICENSE.txt",
+    "static/media/BG.png": "./static/media/BG.732930af.png",
+    "static/media/app.css": "./static/media/Sora-Thin.8f0919b2.woff",
+    "static/media/charloz.63615068.svg": "./static/media/charloz.63615068.svg",
+    "static/media/dribbble.0d97feae.svg": "./static/media/dribbble.0d97feae.svg",
+    "static/media/github.c7500ffb.svg": "./static/media/github.c7500ffb.svg",
+    "static/media/ins.b10b5d12.svg": "./static/media/ins.b10b5d12.svg",
+    "static/media/logoDark.png": "./static/media/logoDark.ffeb42d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa653a2.js",
+    "static/js/2.46476344.chunk.js",
+    "static/css/main.e5c9873c.chunk.css",
+    "static/js/main.f68f2391.chunk.js"
+  ]
+}
