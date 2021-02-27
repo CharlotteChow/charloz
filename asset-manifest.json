@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.7c90f9cd.chunk.css",
+    "main.css": "./static/css/main.1da1fb71.chunk.css",
     "main.js": "./static/js/main.232b83ad.chunk.js",
     "main.js.map": "./static/js/main.232b83ad.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8810afff.js",
@@ -10,7 +10,7 @@
     "static/js/3.00ed13b0.chunk.js": "./static/js/3.00ed13b0.chunk.js",
     "static/js/3.00ed13b0.chunk.js.map": "./static/js/3.00ed13b0.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.7c90f9cd.chunk.css.map": "./static/css/main.7c90f9cd.chunk.css.map",
+    "static/css/main.1da1fb71.chunk.css.map": "./static/css/main.1da1fb71.chunk.css.map",
     "static/js/2.f0bf850d.chunk.js.LICENSE.txt": "./static/js/2.f0bf850d.chunk.js.LICENSE.txt",
     "static/media/BG.png": "./static/media/BG.732930af.png",
     "static/media/app.css": "./static/media/Sora-Thin.8f0919b2.woff",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.8810afff.js",
     "static/js/2.f0bf850d.chunk.js",
-    "static/css/main.7c90f9cd.chunk.css",
+    "static/css/main.1da1fb71.chunk.css",
     "static/js/main.232b83ad.chunk.js"
   ]
 }
