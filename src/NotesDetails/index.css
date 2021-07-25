@@ -1,0 +1,44 @@
+.App{
+  position: relative;
+  width: 100%;
+  background-color: #161718;
+}
+.container{
+  border-top: 1px solid #222425;
+  width: 100%;
+  display: flex;
+  /* justify-content: space-between; */
+}
+.info{
+  width: 440px;
+  margin-top: 40px;
+  margin-left: 36px;
+}
+.title{
+  width: 100%;
+  font-family: PingFang SC;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 52px;
+  color: #FFFFFF;
+}
+.timestamp{
+  font-family: Sora;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 13px;
+  line-height: 26px;
+  color: #808080;
+}
+.details{
+  width: calc( 100vw - 440px);
+  color: #BFBFBF;
+  margin-top: 212px;
+  font-family: PingFang SC;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 30px;
+  padding: 0 80px;
+  max-width: 1200px;
+  margin-bottom: 100px;
+}

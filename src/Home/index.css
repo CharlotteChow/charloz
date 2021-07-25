@@ -34,6 +34,8 @@
 }
 .about_pic {
   width: calc(100vw);
+  overflow: hidden;
+  min-height: 680px;
 }
 .about_pic img{
   max-width: 100%;
@@ -92,4 +94,18 @@
 }
 .socialMedia li a:hover svg path{
   fill: #B2B2B2;
+}
+
+@media screen and (max-width: 1200px) {
+  .side_nav{
+    border-right: 1px solid #222425;
+  }
+  .about_pic {
+    display: none;
+  }
+  .about_content_details{
+    width: calc(50vw);
+    margin-right: 0px;
+    margin-left: 136px;
+  }
 }
